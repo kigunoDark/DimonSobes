@@ -1,0 +1,22 @@
+.episode {
+    max-width: 70%;
+    margin: 0 auto;
+    margin-top: 100px;
+    background: #d98c09;
+    padding:  5%;
+    border-radius: 5px;
+}
+
+.episode ul li {
+    list-style: none;
+}
+
+.episode ul li a {
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
+.episode ul li a:hover {
+    color: white;
+    color: black;
+}
